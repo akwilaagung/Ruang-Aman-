@@ -24,4 +24,20 @@ Jelaskan susunan file dan direktori.
 ## Website dan Repository 
 URL GitHub Pages dan URL repository. 
 ## Referensi 
-Sumber informasi, gambar, dan aset.
+A. Referensi
+1. Kemendikdasmen. Peraturan Menteri Pendidikan Dasar dan Menengah Nomor 6 Tahun 2026 tentang Budaya Sekolah Aman dan Nyaman: https://peraturan.go.id/files/Permendikdasmen-no-6-tahun-2026.pdf
+2. detikEdu. 12 Januari 2026. Satgas PPKS dan TPPK di Sekolah Tak Lagi Berlaku, Ini Gantinya: https://www.detik.com/edu/sekolah/d-8303028/satgas-ppks-dan-tppk-di-sekolah-tak-lagi-berlaku-ini-gantinya
+3. Kementerian Kesehatan RI. Healing119.id: https://healing119.id
+4. Kementerian Kesehatan RI. FAQ Layanan Healing119.id: https://kesprimkom.kemkes.go.id/assets/uploads/contents/others/FAQ_Cegah_Bunuh_Diri%2C_Dukung_Kesehatan_Jiwa__Kenali_Layanan_Healing119.id.pdf
+5. InfoPublik. Healing119.id, Layanan Kesehatan Mental 24 Jam: https://infopublik.id/kategori/layanan-publik/952502/healing119id-layanan-kesehatan-mental-24-jam-teman-bicara-yang-siap-mendengar
+6. InfoPublik. SAPA 129, Layanan Cepat dan Aman untuk Perempuan dan Anak Korban Kekerasan: https://infopublik.id/kategori/layanan-publik/927918/sapa-129-layanan-cepat-dan-aman-untuk-perempuan-dan-anak-korban-kekerasan
+7. KemenPPPA. Lapor SAPA 129: https://laporsapa129.kemenpppa.go.id
+8. World Health Organization. Mental health: strengthening our response: https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response
+9. Perpustakaan DPR RI. Ulasan Permendikbudristek PPKSP (memuat data Asesmen Nasional 2021): https://perpustakaan.dpr.go.id/epaper/index/detail/id/18338
+10. Artikel jurnal tentang bentuk perundungan di sekolah: https://www.jurnal.stie-aas.ac.id/index.php/JAIM/article/download/20867/8925/68032
+
+B. Foto
+1. KapanLagi.com: https://en.kapanlagi.com/plus/wow-is-it-profanity-or-just-ordinary-find-the-explanation-in-kbbi.html
+2. Fotobelajar: https://i.pinimg.com/736x/ff/ce/e6/ffcee6ab47a7ef1c5bac8d042b796fff.jpg
+3. Magnific: https://www.magnific.com/idn/foto/dua-orang-berbicara
+4. Pinterest: https://ar.pinterest.com/pin/1005921266755666179/
