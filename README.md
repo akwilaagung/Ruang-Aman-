@@ -22,7 +22,7 @@ Jelaskan navigasi, layout, responsive design, dan bagian kode HTML/CSS yang pent
 ## Struktur Folder 
 Jelaskan susunan file dan direktori. 
 ## Website dan Repository 
-URL GitHub Pages dan URL repository. 
+URL GitHub Pages (https://akwilaagung.github.io/Ruang-Aman-/)
 ## Referensi 
 A. Referensi
 1. Kemendikdasmen. Peraturan Menteri Pendidikan Dasar dan Menengah Nomor 6 Tahun 2026 tentang Budaya Sekolah Aman dan Nyaman: https://peraturan.go.id/files/Permendikdasmen-no-6-tahun-2026.pdf
