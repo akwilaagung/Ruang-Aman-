@@ -6,7 +6,7 @@ SDG 3, SDG 4, dan SDG 16
 ## Anggota Kelompok 
 1. Nama : Akwila Agung Firmannew : NIM-2515091092 Tugas : Artikel dan Panduan
 2. Nama : I Kadek Dwi Pradnya Dita Putra NIM-2515091064 Tugas : Index dan CSS
-3. Nama : Evodius Evan Malachi NIM-2515091106 Tugas : CSS
+3. Nama : Evodius Evan Malachi NIM-2515091106 Tugas : Readme dan CSS
 4. Nama : Komang Ade Rizky Ariawansyah NIM-2515091025 Tugas : Edukasi dan Tentang
 ## Deskripsi Website 
 1. Tujuan : Kesehatan Mental dan Antiperundungan bertujuan untuk meningkatkan kesadaran masyarakat mengenai pentingnya kesehatan mental serta memberikan pemahaman tentang pengenalan, dampak, dan pencegahan perundungan, baik secara fisik, verbal, sosial, maupun melalui media digital. Program ini juga bertujuan menyediakan ruang yang aman bagi individu untuk berbagi cerita dan menyampaikan permasalahan tanpa takut dihakimi atau mendapatkan stigma. Selain itu, Ruang Aman mendorong terbentuknya dukungan sosial yang positif, meningkatkan empati terhadap sesama, serta memberikan informasi mengenai akses bantuan profesional, seperti konselor dan psikolog. Tujuan tersebut sejalan dengan SDG 3, SDG 4, dan SDG 16 dalam mendukung kesejahteraan mental, menciptakan lingkungan pendidikan yang aman, serta mencegah kekerasan dan perundungan.
