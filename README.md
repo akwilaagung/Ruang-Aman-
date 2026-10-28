@@ -21,25 +21,25 @@ HTML5, CSS3, Flexbox/Grid, CSS Media Queries.
 Jelaskan navigasi, layout, responsive design, dan bagian kode HTML/CSS yang penting. Sertakan potongan kode beserta fungsinya. 
 ## Struktur Folder 
 A. Susunan utama file proyek ini adalah :
-1. Ruang-Aman-/
-   a. css/
-   b. Foto/
-   c. README.md
-   d. artikel.html
-   e. edukasi.html
-   f. index.html
-   g. panduan.html
-   h. tentang.html
+- Ruang-Aman-/
+   - css/
+   - Foto/
+   - README.md
+   - artikel.html
+   - edukasi.html
+   - index.html
+   - panduan.html
+   - tentang.html
 
 B. Fungsi
-a. css/	Menyimpan file CSS yang mengatur desain dan tampilan halaman website.
-b. foto/	Menyimpan foto atau gambar yang digunakan sebagai aset visual website.
-c. README.md	Berisi dokumentasi proyek, tujuan, manfaat, sasaran pengguna, teknologi, dan informasi pendukung lainnya.
-d. index.html	Menjadi halaman utama atau beranda website Ruang Aman.
-e. edukasi.html	Menampilkan materi edukasi mengenai kesehatan mental dan antiperundungan.
-f. panduan.html	Menyajikan panduan atau informasi mengenai langkah yang dapat dilakukan pengguna.
-g. artikel.html	Menampilkan artikel yang berkaitan dengan kesehatan mental dan antiperundungan.
-h. tentang.html	Menjelaskan informasi mengenai website Ruang Aman.
+- css/	Menyimpan file CSS yang mengatur desain dan tampilan halaman website.
+- foto/	Menyimpan foto atau gambar yang digunakan sebagai aset visual website.
+- README.md	Berisi dokumentasi proyek, tujuan, manfaat, sasaran pengguna, teknologi, dan informasi pendukung lainnya.
+- index.html	Menjadi halaman utama atau beranda website Ruang Aman.
+- edukasi.html	Menampilkan materi edukasi mengenai kesehatan mental dan antiperundungan.
+- panduan.html	Menyajikan panduan atau informasi mengenai langkah yang dapat dilakukan pengguna.
+- artikel.html	Menampilkan artikel yang berkaitan dengan kesehatan mental dan antiperundungan.
+- tentang.html	Menjelaskan informasi mengenai website Ruang Aman.
 
 ## Website dan Repository 
 URL GitHub Pages (https://akwilaagung.github.io/Ruang-Aman-/)
