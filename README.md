@@ -20,7 +20,27 @@ HTML5, CSS3, Flexbox/Grid, CSS Media Queries.
 ## Penjelasan Implementasi 
 Jelaskan navigasi, layout, responsive design, dan bagian kode HTML/CSS yang penting. Sertakan potongan kode beserta fungsinya. 
 ## Struktur Folder 
-Jelaskan susunan file dan direktori. 
+A. Susunan utama file proyek ini adalah :
+1. Ruang-Aman-/
+   a. css/
+   b. Foto/
+   c. README.md
+   d. artikel.html
+   e. edukasi.html
+   f. index.html
+   g. panduan.html
+   h. tentang.html
+
+B. Fungsi
+a. css/	Menyimpan file CSS yang mengatur desain dan tampilan halaman website.
+b. foto/	Menyimpan foto atau gambar yang digunakan sebagai aset visual website.
+c. README.md	Berisi dokumentasi proyek, tujuan, manfaat, sasaran pengguna, teknologi, dan informasi pendukung lainnya.
+d. index.html	Menjadi halaman utama atau beranda website Ruang Aman.
+e. edukasi.html	Menampilkan materi edukasi mengenai kesehatan mental dan antiperundungan.
+f. panduan.html	Menyajikan panduan atau informasi mengenai langkah yang dapat dilakukan pengguna.
+g. artikel.html	Menampilkan artikel yang berkaitan dengan kesehatan mental dan antiperundungan.
+h. tentang.html	Menjelaskan informasi mengenai website Ruang Aman.
+
 ## Website dan Repository 
 URL GitHub Pages (https://akwilaagung.github.io/Ruang-Aman-/)
 ## Referensi 
