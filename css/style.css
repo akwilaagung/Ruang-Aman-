@@ -250,6 +250,10 @@ footer {
 
 footer p { margin-bottom: 6px; }
 
+jarak { 
+  padding-top: 20px;
+}
+
 /* Tablet */
 @media (max-width: 900px) {
   .sampul { grid-template-columns: 1fr; }
